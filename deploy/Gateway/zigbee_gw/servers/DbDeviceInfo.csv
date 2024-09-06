@@ -1,0 +1,7 @@
+Device Database
+IeeeAddress,NwkAddress,Status,MfgId,EP_Count,ParentIeeeAddress,CapInfo
+#       00:15:8D:00:01:8B:F3:94 , 0xCB34 , 0x01, 0x1037 , 1, 00:12:4B:00:18:ED:0D:81, 0x0E
+        84:18:26:00:00:E8:D1:CA , 0x5EE0 , 0x01, 0x110C , 1, 00:12:4B:00:18:ED:0D:81, 0x00
+#       00:15:8D:00:01:8B:F3:94 , 0x2ACD , 0x01, 0x1037 , 1, 00:12:4B:00:18:ED:0D:81, 0x0E
+        00:15:8D:00:01:8B:F3:94 , 0xB588 , 0x01, 0x1037 , 1, 00:12:4B:00:18:ED:0D:81, 0x0E
+        00:15:8D:00:01:CE:E2:29 , 0x79BB , 0x01, 0x1214 , 1, 00:12:4B:00:18:ED:0D:81, 0x00

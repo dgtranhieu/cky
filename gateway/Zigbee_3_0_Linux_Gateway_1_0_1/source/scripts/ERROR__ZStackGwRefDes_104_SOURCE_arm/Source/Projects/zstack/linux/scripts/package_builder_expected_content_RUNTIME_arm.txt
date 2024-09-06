@@ -1,0 +1,9 @@
+.
+./content.txt
+./Precompiled
+./Precompiled/app
+./Precompiled/misc
+./Precompiled/misc/ota_sample_images
+./Precompiled/protobuf
+./Precompiled/servers
+./Precompiled/tools
