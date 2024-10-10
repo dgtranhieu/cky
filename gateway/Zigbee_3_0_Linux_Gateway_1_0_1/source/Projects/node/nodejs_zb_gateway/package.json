@@ -6,7 +6,7 @@
   "dependencies": {
     "buffer-reverse": "^1.0.1",
     "bytebuffer": "~3.5.4",
-    "express": "^4.16.2",
+    "express": "^4.21.1",
     "ibmiotf": "^0.2.41",
     "mqtt": "~1.0.10",
     "node-persist": "~0.0.3",
